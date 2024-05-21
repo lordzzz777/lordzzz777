@@ -43,7 +43,7 @@
 <br/>  
 
 
-## Connect with me  
+//## Connect with me  
   
 
 <br/>  
@@ -55,7 +55,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+//## Recent Blog Posts  
   
 
 <br/>  
@@ -64,8 +64,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lordzzz777&&style=flat-square" align="center" />
+
 </div>  
   
 
