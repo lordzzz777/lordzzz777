@@ -1,7 +1,7 @@
-### <div align="center">Me llamo Estaban y desarrollo en iOS </div>  
+## <div align="center">Me llamo Estaban y desarrollo en iOS </div>  
   
 
-- 🌱Actual mente estoy aprendiendo SwiftUI  
+- 🌱 Actualmente estoy aprendiendo SwiftUI  
   
 
 - ❓Pregúntame acerca de las cosa relacionadas con swiftUI  
@@ -74,5 +74,4 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
