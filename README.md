@@ -17,7 +17,7 @@
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
-![logo swift](https://github.com/lordzzz777/lordzzz777/assets/114311106/ac55262d-4b59-4ed2-88e3-69f7185cfbf2)
+![logo swift](https://github.com/lordzzz777/lordzzz777/assets/114311106/ac55262d-4b59-4ed2-88e3-69f7185cfbf2)(https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg)
 
 <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
