@@ -18,9 +18,7 @@
 
 ### Frontend  
 [![logo swift](https://github.com/lordzzz777/lordzzz777/assets/114311106/ac55262d-4b59-4ed2-88e3-69f7185cfbf2)](https://developer.apple.com/swift/)
-![logoHTML](https://github.com/lordzzz777/lordzzz777/assets/114311106/f3c32c48-3a0a-46f4-96c0-eacc04f4359a)
-
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="150" /></a>  
+[![logoHTML](https://github.com/lordzzz777/lordzzz777/assets/114311106/f3c32c48-3a0a-46f4-96c0-eacc04f4359a)](https://en.wikipedia.org/wiki/HTML5)
 </div>
 
 </td><td valign="top" width="33%">
