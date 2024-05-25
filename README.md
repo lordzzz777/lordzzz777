@@ -12,14 +12,13 @@
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
 [![logo swift](https://github.com/lordzzz777/lordzzz777/assets/114311106/ac55262d-4b59-4ed2-88e3-69f7185cfbf2)](https://developer.apple.com/swift/)
 ![LogoSwiftUI](https://github.com/lordzzz777/lordzzz777/assets/114311106/7086fbd3-353a-4359-91fd-2a345eb15de7)
-[![logoHTML](https://github.com/lordzzz777/lordzzz777/assets/114311106/f3c32c48-3a0a-46f4-96c0-eacc04f4359a)](https://en.wikipedia.org/wiki/HTML5)
+[![Logohtml](https://github.com/lordzzz777/lordzzz777/assets/114311106/1f4ee9cb-dca8-4a36-b2a9-56e72cfa14a0)](https://en.wikipedia.org/wiki/HTML5)
 </div>
 
 </td><td valign="top" width="33%">
