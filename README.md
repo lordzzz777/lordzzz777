@@ -23,9 +23,10 @@
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### Backend 
+![logphp](https://github.com/lordzzz777/lordzzz777/assets/114311106/de067525-aa74-4480-8431-1598173537e5)
 <div align="center">
-  ![logphp](https://github.com/lordzzz777/lordzzz777/assets/114311106/de067525-aa74-4480-8431-1598173537e5)
+  
 
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
