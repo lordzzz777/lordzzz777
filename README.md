@@ -1,13 +1,13 @@
-## <div align="center">Me llamo Estaban y desarrollo en iOS </div>  
+## <div align="center">My name is Esteban, and I develop for iOS. </div>  
   
 
-- 🌱 Actualmente estoy aprendiendo SwiftUI  
+ 🌱 I am currently learning SwiftUI.
   
 
-- ❓Pregúntame acerca de las cosa relacionadas con swiftUI  
+ ❓|Ask me about things related to SwiftUI. 
   
 
-- ⚡ Soy musico (toco piano), me gusta lo relacionado con la tecnología  
+ ⚡ I am a musician (I play the piano), and I like things related to technology. 
   
 
 <br/>  
